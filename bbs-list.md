@@ -6,3 +6,5 @@
 - PiBase - x84.ufud.eu (telnet: 6023, ssh: 6022)
 - rANDOM nOIZE - bbs.maze.io (telnet, ssh)
 - The Swamp - bbs.beardy.se (telnet, ssh)
+- PiBase - x84.ufud.eu (telnet 6023, ssh 6022)
+- 
