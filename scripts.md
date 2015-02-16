@@ -4,4 +4,5 @@
 - [BBS list](https://github.com/x84-extras/bbslist) - BBS list script that was originally included in x/84 1.x
 - [Bulletins](https://github.com/x84-extras/bulletins) - A simple bulletins script that displays top callers / message writers
 - [Nodechat](https://github.com/x84-extras/nodechat) - IRC styled multi node chatter
+- [Rumors](https://github.com/x84-extras/rumors) - Randomized, anonymous 'rumors' system
 - [Text browser](https://github.com/x84-extras/textbrowse) - Lightbar-driven text file browser/ANSI art gallery
