@@ -62,7 +62,8 @@ your project:
 
 - Please use syntax-highlighted code blocks in your README (and similar files) when
   providing examples of source code
-- Please create self-contained mods that can be used as *git submodules*
+- Please create self-contained mods that can be used as
+  [git submodules](#self-contained-mods-as-git-submodules)
 - Please allow for customization of your scripts through `default.ini` settings as much
   as possible
 - Please add a LICENSE to your project (see [Licensing](#licensing) below); it is in
