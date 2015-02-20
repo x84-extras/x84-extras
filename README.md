@@ -113,6 +113,18 @@ script:
 gosub('rumors/rumors')
 ```
 
+### As a Python package
+
+If you're setting up your mod to be useable as a clone/submodule, and you have some
+variables or methods you want to expose to other scripts, you should include an
+`__init__.py` file in your project that uses `__all__` to expose the parts you've
+chosen. See
+[Importing * From a Package](https://docs.python.org/2/tutorial/modules.html#importing-from-a-package)
+at docs.python.org for more information.
+
+If you only expect SysOps to manually copy your script into their `scriptpath`, then
+there is no need to do this (since the `scriptpath` itself is already in the `syspath`).
+
 ### Keeping mods up to date
 
 In the case of the *clone* scenario, you must do the following for *each and every mod*:
