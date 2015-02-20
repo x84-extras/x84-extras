@@ -55,6 +55,9 @@ configuration, and usage of your project (if these apply).
 - Please create self-contained mods that can be used as *git submodules*
 - Please allow for customization of your scripts through `default.ini` settings as much
   as possible
+- If your project has Python dependencies that are not included in x/84 by default,
+  include a pip-friendly `requirements.txt` file with *specific versions* for each
+  module (do not use version ranges or fail to include version numbers)
 
 ## Self-contained mods as git submodules
 
