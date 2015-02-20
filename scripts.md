@@ -6,3 +6,4 @@
 - [Nodechat](https://github.com/x84-extras/nodechat) - IRC styled multi node chatter
 - [Rumors](https://github.com/x84-extras/rumors) - Randomized, anonymous 'rumors' system
 - [Text browser](https://github.com/x84-extras/textbrowse) - Lightbar-driven text file browser/ANSI art gallery
+- [Lightbar Main](https://github.com/unfug-deluxe/lightbarmain-x84) - Lightbar example of x/84 main menu
