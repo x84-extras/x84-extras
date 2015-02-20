@@ -64,6 +64,8 @@ your project:
 - Please create self-contained mods that can be used as *git submodules*
 - Please allow for customization of your scripts through `default.ini` settings as much
   as possible
+- Please add a LICENSE to your project (see [Licensing](#licensing) below); it is in
+  *your* best interest to do so!
 
 ## Self-contained mods as git submodules
 
