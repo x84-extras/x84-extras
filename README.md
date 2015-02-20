@@ -31,7 +31,7 @@ This repository is intended to be something of a *phone book*; we don't store, n
 we maintain responsibility for the projects we link to. We are just acting as a
 centralized collection of links to x/84-related projects.
 
-So, if you want your project to be in our list, create a github repository for it. We
+So, if you want your project to be in our list, create a GitHub repository for it. We
 would prefer if each project is stored in its own repository, rather than storing
 a collection of unrelated scripts in the same repository. This will make it far easier
 for people to stay up to date with and focus their interest on particular scripts
