@@ -51,8 +51,9 @@ configuration, and usage of your project (if these apply).
 
 **Required:**
 
-- If integrating your script requires modifying another script, be as specific as
-  possible
+- Installation instructions/documentation
+  - If integrating your script requires modifying another script, be as specific as
+    possible
 - If your project has Python dependencies that are not included in x/84 by default,
   include a pip-friendly `requirements.txt` file with *specific versions* for each
   module (do not use version ranges or fail to include version numbers)
