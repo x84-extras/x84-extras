@@ -49,15 +49,20 @@ To make it easier for people to pick up your project and use it/integrate it wit
 x/84 system, please be sure to provide ample documentation for the installation,
 configuration, and usage of your project (if these apply).
 
+**Required:**
+
 - If integrating your script requires modifying another script, be as specific as
   possible
+- If your project has Python dependencies that are not included in x/84 by default,
+  include a pip-friendly `requirements.txt` file with *specific versions* for each
+  module (do not use version ranges or fail to include version numbers)
+
+**Suggested:**
+
 - When providing examples of source code, use syntax-highlighted code blocks
 - Please create self-contained mods that can be used as *git submodules*
 - Please allow for customization of your scripts through `default.ini` settings as much
   as possible
-- If your project has Python dependencies that are not included in x/84 by default,
-  include a pip-friendly `requirements.txt` file with *specific versions* for each
-  module (do not use version ranges or fail to include version numbers)
 
 ## Self-contained mods as git submodules
 
