@@ -43,11 +43,11 @@ and we have no qualms with linking to FTP directories, static pages, and such; b
 always prefer GitHub repositories to keep the community homogenous in terms of
 workflow and collaboration.
 
-## Please provide instructions and documentation for your project
+## Rules/Guidelines
 
 To make it easier for people to pick up your project and use it/integrate it with their
-x/84 system, please be sure to provide ample documentation for the installation,
-configuration, and usage of your project (if these apply).
+x/84 system, please be sure to follow these rules and consider these guidelines for
+your project:
 
 **Required:**
 
