@@ -49,7 +49,7 @@ To make it easier for people to pick up your project and use it/integrate it wit
 x/84 system, please be sure to follow these rules and consider these guidelines for
 your project:
 
-**Required:**
+### Required
 
 - Installation instructions/documentation
   - If integrating your script requires modifying another script, be as specific as
@@ -58,7 +58,7 @@ your project:
   include a pip-friendly `requirements.txt` file with *specific versions* for each
   module (do not use version ranges or fail to include version numbers)
 
-**Suggested:**
+### Suggested
 
 - Please use syntax-highlighted code blocks in your README (and similar files) when
   providing examples of source code
