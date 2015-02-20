@@ -112,3 +112,12 @@ However, with *submodules*, you can act on them recursively:
 
     $ cd /path/to/x84/scripts
     $ git submodule update --init --remote --recursive
+
+# Licensing
+
+You may use any license you see fit for your project. However, you must understand that
+by including a link to your project, we are not incorporating your project into
+`x84-extras`--merely pointing to a resource--and so we are not bound by any viral
+clauses in the license you have chosen (such as the GPL).
+
+For reference, many of the `x84-extras` scripts use the MIT license, as does x/84 itself.
