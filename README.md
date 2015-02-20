@@ -89,7 +89,7 @@ to be linked to an external source like GitHub):
     $ cd /path/to/x84/scripts
     $ git init .
 
-Next, the Rumors module is added to the `scriptpath` repo as a *submodule*:
+Next, the Rumors mod is added to the `scriptpath` repo as a *submodule*:
 
     $ git submodule add https://github.com/x84-extras/rumors rumors
 
