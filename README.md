@@ -106,7 +106,7 @@ Next, the Rumors mod is added to the `scriptpath` repo as a *submodule*:
 
     $ git submodule add https://github.com/x84-extras/rumors rumors
 
-Finally, just like with the *clone* method, we modify main.py to load the `rumors.py`
+Finally, just like with the *clone* method, we modify `main.py` to load the `rumors.py`
 script:
 
 ```python
