@@ -10,3 +10,4 @@
 | PiBase | x84.ufud.eu | 6023 | 6022 | X |
 | rANDOM nOIZE | bbs.maze.io | √ | 6022 | √ |
 | The Swamp | bbs.beardy.se | √ | √ | X |
+| jesseward.com | bbs.jesseward.com | 64738 | X | X | X |
