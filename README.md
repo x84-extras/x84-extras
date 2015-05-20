@@ -1,6 +1,6 @@
 # x84-extras
 
-Add-ons, projects, active systems, etc. for x/84
+Add-ons, projects, active systems, etc. for the [x/84 Python BBS software](https://github.com/jquast/x84)
 
 - [BBS List](bbs-list.md)
 - [Extra scripts](scripts.md)
