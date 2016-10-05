@@ -6,7 +6,7 @@ Add-ons, projects, active systems, etc. for the [x/84 Python BBS software](https
 - [Extra scripts](scripts.md)
 - [Miscellaneous](misc.md)
 
-This repo's web presence is https://x84-extras.github.io, and its raw MarkDown files are located at https://github.com/x84-extras/x84-extras.
+This repo's web presence is [x84-extras.github.io](https://x84-extras.github.io), and its raw MarkDown files are located at [github.com/x84-extras/x84-extras](https://github.com/x84-extras/x84-extras).
 
 # Contributing
 
