@@ -8,7 +8,7 @@
 | District | district.the-bbs.com | 6023 | 6022 | 6022 |
 | jesseward.com | bbs.jesseward.com | 64738 | - | - |
 | PiBase | x84.ufud.eu | 6023 | 6022 | - |
-| rANDOM nOIZE | bbs.maze.io | X | 6022 | X |
+| rANDOM nOIZE | bbs.maze.io | X | 6022 | 6022 |
 | The Swamp | bbs.beardy.se | X | X | - |
 
 ## Legend
