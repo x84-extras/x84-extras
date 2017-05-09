@@ -24,8 +24,8 @@ to keep them in line with the current style:
   - Discard articles like 'The' for simplicity
 - The BBS list should have each column filled in for each table row
   - Non-standard ports should be specified in the BBS list
-  - Standard ports can use the check mark
-  - Missing ports should use an `X` to denote their absence
+  - Standard ports can use an `X`
+  - Missing ports should use a dash (`-`) to denote their absence
 
 ## Please host your project in its own repo
 
