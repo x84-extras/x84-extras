@@ -10,3 +10,7 @@
 | PiBase | x84.ufud.eu | 6023 | 6022 | - |
 | rANDOM nOIZE | bbs.maze.io | X | 6022 | X |
 | The Swamp | bbs.beardy.se | X | X | - |
+
+## Legend
+- `X` Default port
+- `-` Not available
